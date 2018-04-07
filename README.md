@@ -3,4 +3,5 @@ It's a dynamic system which is to be updated regularly with new mining environme
 Instructions to run kerasmodel.py
 1. Clone directory.
 2. Open command prompt in the directory.
-3. Type: python kerasmodel.py press enter.
+3. Type: python kerasmodel.py
+4. Press enter.
